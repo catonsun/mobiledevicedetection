@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileDeviceDetection", "MobileDeviceDetection\MobileDeviceDetection.csproj", "{2C42046B-74E0-4848-830C-007582C73441}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileDeviceDetectionTest", "MobileDeviceDetectionTest\MobileDeviceDetectionTest.csproj", "{1572FFDA-C0F3-451D-9726-D6C125F8CF84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C42046B-74E0-4848-830C-007582C73441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C42046B-74E0-4848-830C-007582C73441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C42046B-74E0-4848-830C-007582C73441}.Debug|x64.ActiveCfg = Debug|x64
+		{2C42046B-74E0-4848-830C-007582C73441}.Debug|x64.Build.0 = Debug|x64
+		{2C42046B-74E0-4848-830C-007582C73441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C42046B-74E0-4848-830C-007582C73441}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C42046B-74E0-4848-830C-007582C73441}.Release|x64.ActiveCfg = Release|x64
+		{2C42046B-74E0-4848-830C-007582C73441}.Release|x64.Build.0 = Release|x64
+		{1572FFDA-C0F3-451D-9726-D6C125F8CF84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1572FFDA-C0F3-451D-9726-D6C125F8CF84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1572FFDA-C0F3-451D-9726-D6C125F8CF84}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1572FFDA-C0F3-451D-9726-D6C125F8CF84}.Debug|x64.Build.0 = Debug|Any CPU
+		{1572FFDA-C0F3-451D-9726-D6C125F8CF84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1572FFDA-C0F3-451D-9726-D6C125F8CF84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1572FFDA-C0F3-451D-9726-D6C125F8CF84}.Release|x64.ActiveCfg = Release|Any CPU
+		{1572FFDA-C0F3-451D-9726-D6C125F8CF84}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D80A59DC-2D58-479B-9284-97FC437A1413}
+	EndGlobalSection
+EndGlobal
